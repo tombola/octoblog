@@ -4,6 +4,7 @@ published: true
 title: Eye Tracking
 category: geekery
 tagline: new interfaces
+date: 2014-03-11 17:00:00 +0100
 tags: "interfaces, usability, accessibility"
 ---
 

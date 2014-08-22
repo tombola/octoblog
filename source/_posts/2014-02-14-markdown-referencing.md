@@ -4,6 +4,7 @@ published: true
 title: Markdown vs Referencing
 category: geekery
 tagline: static blogs
+date: 2014-02-14 17:00:00 +0100
 tags: "jekyll, platforms, blogging"
 ---
 

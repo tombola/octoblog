@@ -4,7 +4,7 @@ published: true
 title: "Markdown syntax"
 category: 
 tagline: for academic referencing guides
-date: 2014-08-14 15:51:00 -0500
+date: 2014-04-17 17:00:00 +0100
 tags: ""
 ---
 

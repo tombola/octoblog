@@ -3,6 +3,7 @@ layout: post
 published: true
 category: geekery
 tagline: static blogs
+date: 2014-02-10 17:00:00 +0100
 tags: "jekyll, platforms, blogging"
 ---
 

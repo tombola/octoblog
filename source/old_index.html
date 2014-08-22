@@ -20,14 +20,10 @@ navbar: Blog
       {% endfor %}
     </div>
     <div class="blog-index">  
-
-      {% assign post = site.posts.first %}
-      {% assign content = post.content %}
-      {% include post_detail.html %}
-    </div>
-    {% for post in site.posts %}
-    
-          {% endfor %}
+  {% assign post = site.posts.first %}
+  {% assign content = post.content %}
+  {% include post_detail.html %}
+</div>
 
     <ul class="pager">
       {% if paginator.next_page %}

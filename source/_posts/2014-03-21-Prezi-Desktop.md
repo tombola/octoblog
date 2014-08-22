@@ -4,6 +4,7 @@ published: true
 title: Prezi Desktop
 category: tools
 tagline: "giddy with excitement"
+date: 2014-03-21 17:00:00 +0100
 tags: "app, tools, presentation"
 ---
 

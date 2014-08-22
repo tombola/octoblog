@@ -4,6 +4,7 @@ published: true
 title: What are computers for?
 category: thoughts
 tagline: 
+date: 2014-03-26 17:00:00 +0100
 tags: "philosophy,information"
 ---
 <!--<div class="alert alert-info">I tend to use the word 'technology' liberally, but I am almost always referring to computerised systems, and in the main those that make use of the world wide web.</div>-->
